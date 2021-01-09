@@ -1,5 +1,5 @@
 public class test2 {
-    public String get_id(int j) {
+    public String get_idd(int j) {
         return "ai trimis "+j;
 
     }
