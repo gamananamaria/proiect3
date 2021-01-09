@@ -4,4 +4,10 @@ public class testare {
         System.out.println("asd");
     }
 
+
+    public String get_id(int i) {
+        return "ai trimis "+1;
+
+    }
+
 }
